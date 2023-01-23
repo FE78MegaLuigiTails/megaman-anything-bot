@@ -50,7 +50,10 @@
 	"{img https://i.imgur.com/QRTZxvi.jpg}CM Punk: Hey #character# how you doing?",
 	"#character# just showed up at your doorstep{img https://i.imgur.com/5IyGahS.jpg}. You have 10 seconds to run. Or will you approach them?",
 	"#character# got blasted by X's charge shot!{img https://i.imgur.com/nWurIv3.jpg}",
-	"#crush crush crossover#"
+	"#crush crush crossover#",
+	"#character#'s favorite Mega Man Content Creator is #content creator#.",
+	"#character# has been watching #content creator#'s videos for over #time# hours now!",
+	"#character# has been revealed a new member of #band#!"
 ],
 
 "character":[
@@ -69,7 +72,7 @@
 	"Sigma{img https://tinyurl.com/2kfx758p}",
 	"Zero (Z){img https://static.wikia.nocookie.net/megaman/images/4/42/Mega_Man_X_DiVE_Hunter_Program_Zero%28Z%29.png}",
 	"Megaman.EXE{img https://static.wikia.nocookie.net/megaman/images/a/aa/Mega_Man_X_DiVE_Hunter_Program_MegaMan.EXE.png}",
-	"Roll.EXE{img https://static.wikia.nocookie.net/megaman/images/5/59/Mega_Man_X_DiVE_Hunter_Program_Roll.EXE.png}",
+	"Roll.EXE{img https://i.imgur.com/hQqjalG.png}",
 	"Glide.EXE{img https://i.imgur.com/EQb9GzCl.png}",
 	"GutsMan.EXE{img https://cdn.discordapp.com/attachments/1021127223299813488/1030464871843774514/IMG_8260.jpg}",
 	"ProtoMan.EXE{img https://static.wikia.nocookie.net/megaman/images/9/9f/Mega_Man_X_DiVE_Hunter_Program_ProtoMan.EXE.png}",
@@ -622,6 +625,7 @@
 	"Mayor Cain{img https://i.imgur.com/5n5eDD2.png}",
 	"Dr. Cain{img https://i.imgur.com/xHMkH11.jpg}",
 	"Bass.XX{img https://i.imgur.com/GHSRLa1.jpg}",
+	"HatMan.EXE{img https://cdn.discordapp.com/attachments/1021127223299813488/1030841983436070973/Immagine_2022-10-15_155706.png}",
 	"Omega-Xis{img https://i.imgur.com/YlAFBrV.jpg}",
 	"Hyde{img https://i.imgur.com/sJjayK5.jpg}",
 	"Rich Dotcom{img https://i.imgur.com/C89jIYt.jpg}",
@@ -640,12 +644,17 @@
 	"Aircon Man{img https://i.imgur.com/A70zw2r.jpg}",
 	"Komuso Man{img https://i.imgur.com/L86vmMZ.jpg}",
 	"Clock Men{img https://i.imgur.com/Di2g3d6.jpg}",
-	"Compass Man{img https://i.imgur.com/dh1caxn.jpg}"
+	"Compass Man{img https://i.imgur.com/dh1caxn.jpg}",
+	"Sniper Joe{img https://i.imgur.com/4KZtH9y.jpg}",
+	"Maestro{img https://i.imgur.com/OzzsKf5.png}",
+	"Sirius{img https://i.imgur.com/VaajAqH.jpg}",
+	"Met{img https://i.imgur.com/WV805SP.jpg}",
+	"Mettaur{img https://i.imgur.com/g6HMKZD.png}"
 ],
 
 "netnaviboss":[
 	"Megaman.EXE{img https://static.wikia.nocookie.net/megaman/images/a/aa/Mega_Man_X_DiVE_Hunter_Program_MegaMan.EXE.png}",
-	"Roll.EXE{img https://static.wikia.nocookie.net/megaman/images/5/59/Mega_Man_X_DiVE_Hunter_Program_Roll.EXE.png}",
+	"Roll.EXE{img https://i.imgur.com/hQqjalG.png}",
 	"Glide.EXE{img https://i.imgur.com/EQb9GzCl.png}",
 	"GutsMan.EXE{img https://cdn.discordapp.com/attachments/1021127223299813488/1030464871843774514/IMG_8260.jpg}",
 	"ProtoMan.EXE{img https://static.wikia.nocookie.net/megaman/images/9/9f/Mega_Man_X_DiVE_Hunter_Program_ProtoMan.EXE.png}",
@@ -749,7 +758,8 @@
 	"Meddy.EXE{img https://tinyurl.com/y68suf3c}",
 	"Ring.EXE{img https://i.imgur.com/giV3kb4.jpg}",
 	"Bass.GS{img https://i.imgur.com/6HWe2FJ.png}",
-	"Bass.XX{img https://i.imgur.com/GHSRLa1.jpg}"
+	"Bass.XX{img https://i.imgur.com/GHSRLa1.jpg}",
+	"HatMan.EXE{img https://cdn.discordapp.com/attachments/1021127223299813488/1030841983436070973/Immagine_2022-10-15_155706.png}"
 ],
 
 "game":[
@@ -853,7 +863,19 @@
 	"Syria{img https://tinyurl.com/ejc8677b}",
 	"Primary victim's house{img https://i.imgur.com/fp2tdGf.png}",
 	"the Moon{img https://tinyurl.com/y5jccuhm}",
-	"Brazil{img https://tinyurl.com/7avatxuy}"
+	"Brazil{img https://tinyurl.com/7avatxuy}",
+	"Sky Lagoon{img https://i.imgur.com/KUQ7F3C.png}",
+	"Marine Base{img https://i.imgur.com/FwlEzwd.png}",
+	"Military Train{img https://i.imgur.com/9F77VEE.png}",
+	"Jungle{img https://i.imgur.com/9KKouli.png}",
+	"Bio Laboratory{img https://i.imgur.com/tRMVaxp.png}",
+	"Cyber Space{img https://i.imgur.com/MhLDry5.png}",
+	"Air Force{img https://i.imgur.com/QMUFc7B.png}",
+	"Volcano{img https://i.imgur.com/V0aETxU.png}",
+	"Snow Base{img https://i.imgur.com/ntBnFGZ.png}",
+	"Memorial Hall{img https://i.imgur.com/oU6wIsD.png}",
+	"Space Port{img https://i.imgur.com/7lLbbq2.png}",
+	"Final Weapon{img https://i.imgur.com/zkRz5Ls.jpg}"
 ],
 
 "insult":[
@@ -1126,5 +1148,34 @@
 	"#character#'s expectations were crushed by Karma & Sutra, telling them that the world is doomed because The Dark One is coming!{img https://i.imgur.com/jOf77rS.png}",
 	"#character#'s suspension of disbelief has been crushed by The Dark One's appearance!{img https://i.imgur.com/dkb5oWD.png}",
 	"{img https://i.imgur.com/mjPkljw.jpg}Hope for humanity is crushed as Q-Pernikiss protected #character# from a devastating attack that Pamu unleashed!"
+],
+
+"content creator":[
+	"ShadowRockZX{img https://i.imgur.com/TqF8xa9.jpg}",
+	"MegaQuint{img https://i.imgur.com/nmzHlLI.jpg}",
+	"Reploid REVO{img https://i.imgur.com/JVaV6cu.png}",
+	"MidniteWv4{img https://i.imgur.com/O71Fh4J.jpg}",
+	"ThyGamePlaya{img https://i.imgur.com/enqEibZ.png}"
+],
+
+"band":[
+	"Metallica{img https://i.imgur.com/0fevKal.png}",
+	"Foo Fighters{img https://cdn.discordapp.com/attachments/1021127223299813488/1028326374362075206/IMG_8108.jpg}",
+	"Queen{img https://i.imgur.com/Q7SBLxH.png}",
+	"Guns N' Roses{img https://i.imgur.com/Rjr0O1v.jpg}",
+	"Sevendust{img https://tinyurl.com/45tp5zy5}",
+	"Rage Against the Machine{img https://i.imgur.com/RLU6hdo.jpg}",
+	"Green Day{img https://i.imgur.com/jCFfrjq.jpg}",
+	"Red Hot Chili Peppers{img https://i.imgur.com/SRdijTl.jpg}",
+	"Nirvana{img https://i.imgur.com/vfgzgMc.jpg}",
+	"Linkin Park{img https://i.imgur.com/9AsozyR.jpg}",
+	"The Rolling Stones{img https://i.imgur.com/AZZQRDl.jpg}",
+	"Limp Bizkit{img https://i.imgur.com/mXCVhhk.jpg}",
+	"The Beatles{img https://tinyurl.com/y34oyc9r}",
+	"AC/DC{img https://cdn.discordapp.com/attachments/1021127223299813488/1028327079323893840/IMG_8118.jpg}",
+	"Nickleback{img https://cdn.discordapp.com/attachments/1021127223299813488/1028327079877541959/IMG_8119.jpg}",
+	"Dragonforce{img https://i.imgur.com/xoTzQuk.png}",
+	"Anthrax{img https://i.imgur.com/XPQgWb0.jpg}",
+	"Lynyrd Skynyrd{img https://i.imgur.com/XNMDndT.jpg}"
 ]
 }
